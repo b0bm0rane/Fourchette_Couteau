@@ -6,5 +6,6 @@ C'est bon, nous avons bien mangé, c'est l'heure de la sieste !
 
 Je continue l'entrainement avec git !
 
-
 Je suis trop bien !
+
+Il fait pas beau aujourd'hui :(
